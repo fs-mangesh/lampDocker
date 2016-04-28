@@ -17,7 +17,7 @@
 </head>
 <body>
 	<img id="logo" src="logo.png" />
-	<h1><?php echo "Hello Mangesh! Linux"; ?></h1>
+	<h1><?php echo "Hello Mangesh! Linux"; AfourTech?></h1>
 	<?php if(!$link) { ?>
 		<h2>Can't connect to local MySQL Server!</h2>
 	<?php } else { ?>
